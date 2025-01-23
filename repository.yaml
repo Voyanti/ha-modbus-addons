@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: voyanti-ha-addons
+url: 'https://github.com/stephan-carstens/voyanti-ha-addons'
+maintainer: Stephan Carstens <carstensstephan@outlook.com>
