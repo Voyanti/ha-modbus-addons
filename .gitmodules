@@ -7,4 +7,7 @@
 [submodule "ha-sungrow"]
     path = ha-sungrow
     url = https://github.com/heinrich321/voyanti-sungrow.git
-	
+
+[submodule "ha-paneltrack"]
+	path = ha-paneltrack
+	url = https://github.com/stephan-carstens/ha-paneltrack
