@@ -1,0 +1,9 @@
+[submodule "ha-atess"]
+	path = ha-atess
+	url = git@github.com:stephan-carstens/ha-atess.git
+[submodule "modbus-mqtt"]
+	path = modbus-mqtt
+	url = git@github.com:stephan-carstens/modbus-mqtt.git
+[submodule "ha-sungrow"]
+	path = ha-sungrow
+	url = git@github.com:heinrich321/voyanti-sungrow.git
