@@ -2,7 +2,7 @@
     path = ha-atess
     url = https://github.com/stephan-carstens/ha-atess.git
 [submodule "modbus-mqtt"]
-    path = modbus-mqtt
+    path = modbus_mqtt
     url = https://github.com/stephan-carstens/modbus-mqtt.git
 [submodule "ha-sungrow"]
     path = ha-sungrow
