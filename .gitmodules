@@ -11,3 +11,6 @@
 [submodule "ha-paneltrack"]
 	path = ha-paneltrack
 	url = https://github.com/stephan-carstens/ha-paneltrack
+[submodule "ha-kehua"]
+	path = ha-kehua
+	url = ./ha-kehua
