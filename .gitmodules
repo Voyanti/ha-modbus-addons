@@ -1,6 +1,3 @@
-[submodule "ha-atess"]
-    path = ha-atess
-    url = https://github.com/Voyanti/ha-atess.git
 [submodule "ha-sungrow"]
     path = ha-sungrow
     url = https://github.com/heinrich321/voyanti-sungrow.git
