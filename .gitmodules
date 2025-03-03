@@ -7,3 +7,6 @@
 [submodule "ha-kehua"]
 	path = ha-kehua
 	url = https://github.com/Voyanti/ha-kehua.git
+[submodule "ha-atess"]
+	path = ha-atess
+	url = https://github.com/Voyanti/ha-atess.git
