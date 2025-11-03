@@ -12,4 +12,4 @@
 	url = https://github.com/Voyanti/ha-atess.git
 [submodule "ha-goodwe"]
 	path = ha-goodwe
-	url = git@github.com:Voyanti/ha-goodwe.git
+	url = https://github.com/Voyanti/ha-goodwe.git
