@@ -67,3 +67,10 @@ With proper handling:
 ## Action Required
 
 Other add-ons (ha-sungrow, ha-atess, ha-kehua) should implement this pattern to ensure robust operation when devices go offline.
+
+
+## Required: Connection refusal handling
+- ModbusTCPClient.connect: 3 retries for opening the TCP socket: 
+- failling after a few calls stalls the addon; no connection established when the device eventually comes online
+
+ha-sungrow has modbus_client_connect_retries as config param - needs to be replicated in other addons. 
