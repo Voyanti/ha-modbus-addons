@@ -2,3 +2,10 @@ tree.txt
 schema.yaml
 .local/
 requirements copy.txt
+.DS_Store
+pdfs/
+.env
+
+# has its own .git with no commits and no remote; `git add .` would
+# otherwise record it as a gitlink with no .gitmodules entry
+modbus-bridge/
